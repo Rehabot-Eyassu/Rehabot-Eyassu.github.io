@@ -2,57 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "WELCOME",
+    "title": "Rehabot Eyassu’s Blog",
     "section": "",
-    "text": "REHABOT EYASSU\n\n\n\n\n\n\nHello and Welcome! My name is Rehabot, but I go by Rae. This website’s sole purpose is to display what I have worked on and what I have learned throughout my Data Visualization EPPS 6302 course. I am super excited to see how much I grow in this class. With the guidance of professor Ho and the assistance of my amazing peers and teammates I am sure the knowledge learned in this course will be very fruitful. So, without further ado go and explore my webpage!"
+    "text": "First Assignment\n\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nSep 13, 2023\n\n\nRae Eyassu\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 13, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Education\n\n\nUniversity of Texas at Dallas | M.S. Human-Computer Interactions\nUniversity of Texas at Dallas | B.S. Cognitive Science\n\n\n\nExperience\nUser Experience Design Intern | Reltio\nClinical Research Coordinator | SGS\n\n\nFun\nI enjoy painting and occasionally make baked goods.\n\nI did not paint this."
+    "text": "About this blog"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "UX Designs\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\nUX Development\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fusce id velit ut tortor pretium viverra suspendisse potenti nullam. Et tortor consequat id porta nibh venenatis. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Amet mattis vulputate enim nulla aliquet porttitor. Vitae congue eu consequat ac felis donec et. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Condimentum lacinia quis vel eros donec ac. Leo vel orci porta non pulvinar neque. Amet facilisis magna etiam tempor orci eu lobortis. Integer quis auctor elit sed vulputate mi sit.\n\n\n\n\n\n\n\n\n\nResearch\nVulputate mi sit amet mauris commodo quis imperdiet massa. Egestas fringilla phasellus faucibus scelerisque. Aliquam malesuada bibendum arcu vitae elementum. Phasellus egestas tellus rutrum tellus pellentesque eu. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Aliquet eget sit amet tellus cras adipiscing enim eu. Semper auctor neque vitae tempus. Dictum varius duis at consectetur."
+    "text": "This is a post with executable code."
   },
   {
-    "objectID": "pictures.html",
-    "href": "pictures.html",
-    "title": "Pictures",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Unicorn - Were they real? Extinct?"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html#section",
-    "href": "about.html#section",
-    "title": "About",
+    "objectID": "posts/Assignment 1/index.html",
+    "href": "posts/Assignment 1/index.html",
+    "title": "First Assignment",
     "section": "",
-    "text": "University of Texas at Dallas | M.S. Human-Computer Interactions\nUniversity of Texas at Dallas | B.S. Cognitive Science"
+    "text": "plot(anscombe$x1,anscombe$y1)\n\n\n\nplot(anscombe$x2,anscombe$y2)\n\n\n\nplot(anscombe$x3,anscombe$y3)\n\n\n\nplot(anscombe$x4,anscombe$y4)"
   },
   {
-    "objectID": "pictures.html#unicorn",
-    "href": "pictures.html#unicorn",
-    "title": "Pictures",
+    "objectID": "posts/Assignment 1/index.html#anscombe-1973-quartlet",
+    "href": "posts/Assignment 1/index.html#anscombe-1973-quartlet",
+    "title": "First Assignment",
     "section": "",
-    "text": "Unicorn - Were they real? Extinct?"
+    "text": "plot(anscombe$x1,anscombe$y1)\n\n\n\nplot(anscombe$x2,anscombe$y2)\n\n\n\nplot(anscombe$x3,anscombe$y3)\n\n\n\nplot(anscombe$x4,anscombe$y4)"
   },
   {
-    "objectID": "pictures.html#utd",
-    "href": "pictures.html#utd",
-    "title": "Pictures",
-    "section": "UTD",
-    "text": "UTD\nUTD - The University of Texas at Dallas"
+    "objectID": "posts/Assignment 1/index.html#generative-art",
+    "href": "posts/Assignment 1/index.html#generative-art",
+    "title": "First Assignment",
+    "section": "Generative Art",
+    "text": "Generative Art\n\nCheck out Silk – Interactive Generative Art (weavesilk.com) an amazing application that allows you “create” your own generative art."
   },
   {
-    "objectID": "pictures.html#unicorns",
-    "href": "pictures.html#unicorns",
-    "title": "Pictures",
+    "objectID": "posts/Assignment 1/index.html#section-1",
+    "href": "posts/Assignment 1/index.html#section-1",
+    "title": "Assignment 1",
     "section": "",
-    "text": "Unicorn - Were they real? Extinct?"
+    "text": "Check out Silk – Interactive Generative Art (weavesilk.com) an amazing application that allows you “create” your own generative art."
+  },
+  {
+    "objectID": "posts/Assignment 1/index.html#critique",
+    "href": "posts/Assignment 1/index.html#critique",
+    "title": "First Assignment",
+    "section": "Critique",
+    "text": "Critique\n\nThe graph I am critiquing is a chart released by the Republican Senate Budget Committee. It was released by Daniel Harper in 2012, an election year. I am critiquing this graph because it is incredibly misleading. It takes the initiative to insinuate that millions of individuals are receiving welfare. The title states that over 100 million people are now receiving welfare. What the title does not state is that the y-axis starts at 94,000,000. 94 million! The exclusion of the digits prior to 94,000,000 creates an inaccurate data visualization of the state of federal welfare."
+  },
+  {
+    "objectID": "posts/Assignment 1/index.html#fall.r",
+    "href": "posts/Assignment 1/index.html#fall.r",
+    "title": "First Assignment",
+    "section": "Fall.R",
+    "text": "Fall.R"
   }
 ]
